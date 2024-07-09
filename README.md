@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... very complex system engineering projects :v:
-- 🌱 I’m currently learning [Dask](https://docs.dask.org/en/stable/) and [LangGraph](https://langchain-ai.github.io/langgraph/)
+- 🌱 I’m currently learning ... [Dask](https://docs.dask.org/en/stable/) and [LangGraph](https://langchain-ai.github.io/langgraph/)
 - 👯 I’m looking to collaborate on...  applying multi-agent LLMs to aid humans in the daunting troubleshooting of microservices apps
-- 💬 Ask me about: repairing your bike :bicyclist:
+- 💬 Ask me about: repairing your bike :bicyclist: (or manage your Ansible cluster) 
 
